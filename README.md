@@ -12,8 +12,8 @@ routing_clearance: "GENERAL - CLEARED FOR PUBLIC RELEASE"
   <h1>💜🐾🎓🌻🧠 K-State KDD Lab — Public Releases 🤖🦬🌾🐈‍⬛💜</h1>
   <p>
     <strong>Laboratory for Knowledge Discovery in Databases • Est. 1999</strong><br>
-    <em>[Department of Computer Science](https://www.cs.ksu.edu) • [Carl R. Ice College of Engineering](https://engg.ksu.edu) • [Kansas State University](https://www.ksu.edu/)</em><br>
-    <em>A Founding Laboratory of the [Center for Artificial Intelligence and Data Science](https://caids.cs.ksu.edu/) (CAIDS)</em>
+    <em><a href="https://www.cs.ksu.edu">Department of Computer Science</a> • <a href="https://engg.ksu.edu">Carl R. Ice College of Engineering</a> • <a href="https://www.ksu.edu">Kansas State University</a></em><br>
+    <em>A Founding Laboratory of the <a href="https://caids.cs.ksu.edu"><KSU Center for Artificial Intelligence and Data Science (CAIDS)</a></em>
   </p>
   <p>
     🌐 <a href="https://www.kddresearch.org">KDDResearch.org</a> &nbsp;•&nbsp;
