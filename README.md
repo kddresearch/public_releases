@@ -1,13 +1,44 @@
 ---
-header_version: "2.0"
-document_version: "1.1"
-last_updated_date: "2026-07-06"
-last_updated_time: "00:35:00 CDT"
-document_monotonicity: "REQUIRED"
-routing_clearance: "GENERAL - CLEARED FOR ALL STACK NODES"
+yaml_schema_version: "1.1"
+document_version: "1.2"
+document_last_updated_date: "2026-10-30"
+document_last_updated_time: "18:53 CDT"
+document_monotonicity: "REQUIRED - Ensure document_version and timestamps strictly increment on every update of the target document. Reject regressions."
+anti_cwa_cardinal_rule: "ALWAYS ASK, NEVER INFER. Do not hallucinate physical world state, task completion, or implicit preferences. If a state variable is non-inferrable, pause execution and prompt the user for explicit boolean confirmation."
+routing_clearance: "GENERAL - CLEARED FOR PUBLIC RELEASE"
 ---
 
-# Knowledge Discovery in Databases (KDD) Lab — Public Releases
+<div align="center">
+  <h1>💜🐾🎓🌻🧠 Knowledge Discovery in Databases (KDD) Lab — Public Releases 🤖🦬🌾🐈‍⬛💜</h1>
+  <p>
+    <strong>Laboratory for Knowledge Discovery in Databases (KDD Lab) • Est. 1999</strong><br>
+    <em>[Department of Computer Science](https://www.cs.ksu.edu) • [Carl R. Ice College of Engineering](https://engg.ksu.edu) • [Kansas State University](https://www.ksu.edu/)</em><br>
+    <em>A Founding Laboratory of the [Center for Artificial Intelligence and Data Science](https://caids.cs.ksu.edu/) (CAIDS)</em>
+  </p>
+  <p>
+    🌐 <a href="https://www.kddresearch.org">KDDResearch.org</a> &nbsp;•&nbsp;
+    🤗 <a href="https://huggingface.co/KDDResearch">Hugging Face</a> &nbsp;•&nbsp;
+    🦋 <a href="https://bsky.app/profile/kddresearch.bsky.social">Bluesky (@kddresearch.bsky.social)</a> &nbsp;•&nbsp;
+    𝕏 <a href="https://x.com/kstate_bigdata">X (@kstate_bigdata)</a> &nbsp;•&nbsp;
+    📦 <a href="https://github.com/kddresearch/public_releases">Public Releases</a>
+  </p>
+  <p>
+    <strong>Principal Investigator:</strong> Prof. William H. Hsu
+    (<a href="https://github.com/banazir">@banazir</a> •
+    <a href="https://scholar.google.com/citations?hl=en&user=JQoJRcIAAAAJ">Google Scholar</a> •
+    <a href="https://orcid.org/0000-0002-2950-6246">ORCID</a> •
+    <a href="https://dblp.org/pid/21/1034.html">DBLP</a> •
+    <a href="https://openreview.net/profile?id=~William_Hsu1">OpenReview</a>)
+  </p>
+  <hr>
+  <strong>🧬 Core Research Divisions (Public Release Directories)</strong><br>
+  💬 <a href="https://github.com/kddresearch/public_releases/tree/main/NL">Natural Language [NL]</a> &nbsp;|&nbsp;
+  👁️ <a href="https://github.com/kddresearch/public_releases/tree/main/CV">Computer Vision [CV]</a> &nbsp;|&nbsp;
+  🤖 <a href="https://github.com/kddresearch/public_releases/tree/main/RL">Reinforcement Learning [RL]</a> &nbsp;|&nbsp;
+  🛡️ <a href="https://github.com/kddresearch/public_releases/tree/main/ST">Secure &amp; Trustworthy AI [ST]</a> &nbsp;|&nbsp;
+  🌾 <a href="https://github.com/kddresearch/public_releases/tree/main/OA">Other Applied AI [OA]</a>
+</div>
+
 **Institution:** Kansas State University  
 **Principal Investigator:** Prof. William H. Hsu  
 **Canonical Domain:** [kddresearch.org](https://www.kddresearch.org)  
