@@ -37,6 +37,7 @@ routing_clearance: "GENERAL - CLEARED FOR PUBLIC RELEASE"
   🤖 <a href="https://github.com/kddresearch/public_releases/tree/main/RL">Reinforcement Learning [RL]</a> &nbsp;&nbsp;<br>
   🛡️ <a href="https://github.com/kddresearch/public_releases/tree/main/ST">Secure &amp; Trustworthy AI [ST]</a> &nbsp;|&nbsp;
   🌾 <a href="https://github.com/kddresearch/public_releases/tree/main/OA">Other Applied AI [OA]</a>
+<br>
 </div>
 
 **Institution:** Kansas State University  
