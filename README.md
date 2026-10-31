@@ -52,4 +52,4 @@ Our team executes high-leverage research across the following core tracks:
 * **Precision Agriculture:** Reinforcement Learning and computer vision optimizations for agricultural engineering and precision crop management.
 
 ## 🗂️ Project Repositories & Open Source Index
-The migration, deduplication, and cleanup of our 70 legacy repositories into centralized project structures is currently ongoing. Public releases will be organized by their structural prefixes as they clear our Tier 2 Code Audit gating systems.
+The migration, deduplication, and cleanup of our 70 internal repositories into centralized project structures is currently ongoing. Public releases will be organized by their structural prefixes as they clear our Tier 2 Code Audit gating systems.
