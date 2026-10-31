@@ -13,7 +13,7 @@ routing_clearance: "GENERAL - CLEARED FOR PUBLIC RELEASE"
   <p>
     <strong>Laboratory for Knowledge Discovery in Databases • Est. 1999</strong><br>
     <em><a href="https://www.cs.ksu.edu">Department of Computer Science</a> • <a href="https://engg.ksu.edu">Carl R. Ice College of Engineering</a> • <a href="https://www.ksu.edu">Kansas State University</a></em><br>
-    <em>A Founding Laboratory of the <a href="https://caids.cs.ksu.edu"><KSU Center for Artificial Intelligence and Data Science (CAIDS)</a></em>
+    <em>A Founding Laboratory of the <a href="https://caids.cs.ksu.edu">Center for Artificial Intelligence and Data Science (CAIDS)</a></em>
   </p>
   <p>
     🌐 <a href="https://www.kddresearch.org">KDDResearch.org</a> &nbsp;•&nbsp;
