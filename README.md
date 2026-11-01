@@ -9,7 +9,7 @@ routing_clearance: "GENERAL - CLEARED FOR PUBLIC RELEASE"
 ---
 
 <div align="center">
-  <h1>💜🐾🎓🌻🧠 K-State KDD Lab — Public Releases 🤖🦬🌾🐈‍⬛💜</h1>
+  <h1>💜🐾🎓🌻🧠 K-State KDD Lab • Public Releases 🤖🦬🌾🐈‍⬛💜</h1>
   <p>
     <strong>Laboratory for Knowledge Discovery in Databases • Est. 1999</strong><br>
     <em><a href="https://www.cs.ksu.edu">Department of Computer Science</a> • <a href="https://engg.ksu.edu">Carl R. Ice College of Engineering</a> • <a href="https://www.ksu.edu">Kansas State University</a></em><br>
