@@ -1,12 +1,14 @@
+<!--
 ---
-yaml_schema_version: "1.1"
-document_version: "1.2"
-document_last_updated_date: "2026-10-30"
-document_last_updated_time: "18:53 CDT"
+yaml_schema_version: "2.0"
+document_version: "1.3"
+document_last_updated_date: "2026-11-19"
+document_last_updated_time: "18:05:35 CST"
 document_monotonicity: "REQUIRED - Ensure document_version and timestamps strictly increment on every update of the target document. Reject regressions."
 anti_cwa_cardinal_rule: "ALWAYS ASK, NEVER INFER. Do not hallucinate physical world state, task completion, or implicit preferences. If a state variable is non-inferrable, pause execution and prompt the user for explicit boolean confirmation."
 routing_clearance: "GENERAL - CLEARED FOR PUBLIC RELEASE"
 ---
+-->
 
 <div align="center">
   <h1>💜🐾🎓🌻🧠 K-State KDD Lab • Public Releases 🤖🦬🌾🐈‍⬛💜</h1>
