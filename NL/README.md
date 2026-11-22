@@ -1,7 +1,9 @@
 <!--
+---
 yaml_schema_version: "2.10"
 document_version: "1.2"
 document_last_updated_date: "2026-10-28"
+---
 -->
 
 <div align="center">
